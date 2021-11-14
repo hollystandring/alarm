@@ -1,4 +1,4 @@
-# Countdown
+# Alarm
 A shell script to play an alarm at a predetermined time. Optional feature for [dwm-bar](https://github.com/joestandring/dwm-bar).
 ## Features
 * Creates a temporary file so the current status can be used in other scripts (e.g. [dwm-bar](https://github.com/joestandring/dwm-bar)).
