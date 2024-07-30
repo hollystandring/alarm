@@ -1,7 +1,7 @@
 # Alarm
-A shell script to play an alarm at a predetermined time. Optional feature for [dwm-bar](https://github.com/joestandring/dwm-bar).
+A shell script to play an alarm at a predetermined time. Optional feature for [dwm-bar](https://github.com/hollystandring/dwm-bar).
 ## Features
-* Creates a temporary file so the current status can be used in other scripts (e.g. [dwm-bar](https://github.com/joestandring/dwm-bar)).
+* Creates a temporary file so the current status can be used in other scripts (e.g. [dwm-bar](https://github.com/hollystandring/dwm-bar)).
 * Alerts the user with a notification.
 * Prevents multiple instances of the script running at once.
 ## Optional dependencies
@@ -10,7 +10,7 @@ A shell script to play an alarm at a predetermined time. Optional feature for [d
 ## Installation
 1. Clone the repository:
 ```sh
-$ git clone https://github.com/joestandring/alarm
+$ git clone https://github.com/hollystandring/alarm
 ```
 2. Enter the directory:
 ```sh
