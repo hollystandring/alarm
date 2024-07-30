@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # Play an alarm at a set time
-# Joe Standring <git@joestandring.com>
 # GNU GPLv3
 
 ALARMSOUND="./alarm.ogg"
